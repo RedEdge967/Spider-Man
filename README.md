@@ -17,6 +17,14 @@
 - Dr.Octopus
 - Mysterio
 -----------
+## Running `Mini-Spidey`
+### Running `online`
+- Go to https://rededge967.github.io/mini-spidey/
+### Running `offline`
+- Download `source.code.zip` from [here](https://github.com/RedEdge967/mini-spidey/releases)
+- Extract the folder
+- Run `index.html` file in the browser
+---
 ## Can I contribute?
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to Fork or clone this and I appreciate it.
 ---
