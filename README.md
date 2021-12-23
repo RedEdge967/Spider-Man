@@ -1,7 +1,7 @@
 # mini-spidey
 - A Mini-figure Spiderman game with more villains to fight in HTML5, CSS3 and Javascript
 ---
-## 🔗🔗 Link: https://rededge967.github.io/mini-spidey/
+### 🔗🔗 Link: https://rededge967.github.io/mini-spidey/
 ---
 ## Used langs
 - HTML5
