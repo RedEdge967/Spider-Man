@@ -1,10 +1,18 @@
 # mini-spidey
 - A Mini-figure Spiderman game with more villains to fight in HTML5, CSS3 and Javascript
 <p align="center">
-  <img src="/images/standing.png" height="35%" width="35%">
+  <img src="/images/standing.png" height="30%" width="30%">
+</p>
 
 ---
 ### 🔗🔗 Link: https://rededge967.github.io/mini-spidey/
+---
+## Special Notes
+### What is needed to Play `Mini-Spidey`
+- A Laptop, Computer or a Desktop with a keyboard
+- Specially a Keyboard
+- A web browser
+- File extractor (normally you can extract with the system software or you can use WinRar and etc.)
 ---
 ## Used langs
 - HTML5
