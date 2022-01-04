@@ -15,9 +15,9 @@
 - File extractor (normally you can extract with the system software or you can use WinRar and etc.)
 ---
 ## Used langs
+- Javascript
 - HTML5
 - CSS3
-- Javascript
 ---
 ## More about the game
 ### Villains in the game
