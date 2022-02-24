@@ -19,9 +19,14 @@
 - HTML5
 - CSS3
 ---
+
+|Preview|
+|-|
+|![Spider-Man](https://user-images.githubusercontent.com/91379432/155486365-0e2b515d-d90d-4846-aecf-f41b6e307429.png)|
+
 ## More about the game
 ### Villains in the game
-- Thug
+- Thugs
 - Venom
 - Green Goblin
 - Sandman
