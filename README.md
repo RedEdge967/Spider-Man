@@ -39,7 +39,7 @@
 -----------
 ## Running `Spider-Man`
 ### Running `online`
-- Go to https://rededge967.github.io/mini-spidey/
+- Go to https://rededge967.github.io/Spider-Man/
 ### Running `offline`
 - Download `source.code.zip` from [here](https://github.com/RedEdge967/Spider-Man/releases)
 - Extract the folder
