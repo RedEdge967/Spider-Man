@@ -53,4 +53,7 @@
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 ---
+### Credits
+Note this is just a improved and stable version of [Luka Kvavilashvili's Spider Man](https://github.com/Lukakva/Spiderman)
+
 > ### If you enjoysed this game, don't forget to give a star🌟 and fork to make your own Spider-Man game
